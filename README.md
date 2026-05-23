@@ -16,7 +16,7 @@
 
 ## 💻 Sobre mim
 
-🎓 Estudante de Ciência de Dados na FATEC  
+🎓 Estudante de Ciência de Dados na FATEC e na EBAC
 💡 Apaixonado por tecnologia e programação  
 🌎 Várzea Paulista - SP  
 🚀 Atualmente aprendendo desenvolvimento web moderno
