@@ -8,13 +8,13 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </div>
 
 ---
 
-# 💻 Sobre mim
+## 💻 Sobre mim
 
 🎓 Estudante de Ciência de Dados na FATEC  
 💡 Apaixonado por tecnologia e programação  
@@ -23,44 +23,42 @@
 
 ---
 
-# ⚡ Tecnologias que estou estudando
+## ⚡ Tecnologias
 
 <div style="display: inline_block"><br>
 
 <img align="center" alt="HTML" height="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
 <img align="center" alt="CSS" height="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
 <img align="center" alt="JavaScript" height="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="center" alt="Python" height="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <img align="center" alt="Git" height="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🚀 Objetivos
+## 🚀 Objetivos
 
 ✔ Evoluir como desenvolvedor  
 ✔ Criar projetos profissionais  
@@ -69,7 +67,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 
 ---
 
-# 🧠 Atualmente aprendendo
+## 🧠 Atualmente aprendendo
 
 - Responsividade
 - Flexbox
@@ -79,14 +77,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 📧 gustacoelhogu@gmail.com
-Telefone: (11) 96199-7615
+Telefone: (11) 961997615
 ---
 
 <div align="center">
 
-✨ “Todo especialista já foi iniciante.” ✨
+✨ "Todo especialista já foi iniciante." ✨
 
 </div>
