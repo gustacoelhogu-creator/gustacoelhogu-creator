@@ -46,18 +46,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustacoelhogu-creator&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacoelhogu-creator&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🚀 Objetivos
 
 ✔ Evoluir como desenvolvedor  
